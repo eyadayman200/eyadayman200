@@ -1,16 +1,81 @@
-## Hi there 👋
+# Hi, I'm Eyad Ayman 👋
 
-<!--
-**eyadayman200/eyadayman200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | Excel | SQL | Power BI | Python
 
-Here are some ideas to get you started:
+I'm a Computer Science graduate interested in Data Analytics and Business Intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy transforming raw data into meaningful insights and interactive dashboards.
+
+---
+
+## 🛠️ Skills & Tools
+
+### Data Analysis
+- Excel
+- SQL
+- Python
+- Pandas
+- NumPy
+
+### Data Visualization
+- Power BI
+- Matplotlib
+- Seaborn
+- Excel Dashboards
+
+### Databases
+- SQL Server
+
+---
+
+## 📊 Featured Projects
+
+### 🛒 Supermarket Sales Analysis
+**Tools:** Excel | SQL Server | Python | Power BI
+
+- Sales and profit analysis
+- COGS and Gross Profit analysis
+- Return and Return Rate analysis
+- Product and monthly performance
+- Interactive Power BI dashboard
+
+---
+
+### 🛍️ E-Commerce Sales Analysis
+**Tools:** Excel | Power BI
+
+- Sales performance analysis
+- Product analysis
+- Revenue trends
+- Interactive dashboard
+
+---
+
+### ☕ Coffee Shop Sales Analysis
+**Tools:** Excel | Python
+
+- Sales trends
+- Product performance
+- Customer and transaction analysis
+- Data visualization
+
+---
+
+## 📈 What I'm Currently Learning
+
+- Advanced SQL
+- DAX
+- Data Modeling
+- Data Warehousing
+- Statistics for Data Analysis
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: [Your LinkedIn](YOUR_LINKEDIN_URL)
+- Email: YOUR_EMAIL
+
+---
+
+⭐ I'm continuously building projects and improving my Data Analytics skills.
