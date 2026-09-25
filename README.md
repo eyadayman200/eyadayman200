@@ -73,8 +73,8 @@ I enjoy transforming raw data into meaningful insights and interactive dashboard
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Your LinkedIn](YOUR_LINKEDIN_URL)
-- Email: YOUR_EMAIL
+
+- Email: eyadayman650@gmail.com
 
 ---
 
