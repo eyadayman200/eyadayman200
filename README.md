@@ -14,8 +14,6 @@ I enjoy transforming raw data into meaningful insights and interactive dashboard
 - Excel
 - SQL
 - Python
-- Pandas
-- NumPy
 
 ### Data Visualization
 - Power BI
@@ -67,7 +65,6 @@ I enjoy transforming raw data into meaningful insights and interactive dashboard
 - DAX
 - Data Modeling
 - Data Warehousing
-- Statistics for Data Analysis
 
 ---
 
